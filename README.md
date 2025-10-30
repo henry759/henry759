@@ -1,20 +1,13 @@
 # **_henry759's portfolio_**
 
-## My Main Deal:
-Im interested, and making projects about ***Web Application Development*** and 
-i have a hands-on experience about that. 
+## What I Do:
+I'm a developer focused on ***Web Application Development*** with hands-on experience in building modern backends and frontends. 
 
-## ⚙️ _What I'm Currently Focused On_
-
-Eyes on **Backend-API**, hands on **keyboard** so im gonna extract the consume of these technologies like a 🧛vampire to my brain...
+## ⚙️ _Currently Focus_
+I'm currently sharpening my skills in **Backend APIs** using FastAPI, and also working with Next.js and Tailwind for making responsive and modern UIs.
 
 ## 🫠 _About Me_
-- Im interesteded on web application development with Modern Technologies (Next.js, Tailwind, FastAPI)
-
-As You saw in the top section,
-i like to learn technologies related to my interests
-because im young and i should learn as much as i can without losing my productivity and patient.
-
+- I enjoy learning new technologies related with my interests. As a young developer I aim to grow quickly without losing productivity and patience.
 
 ## 🥷 _Skills_
 
@@ -30,6 +23,6 @@ because im young and i should learn as much as i can without losing my productiv
 | **_Backend_**  | _*Python, FastAPI*_      |
 | **_Styling_**  | _*Tailwind, SCSS, CSS3*_ |
 
-## Bonus (Project Demo):
+## 🚀 Featured Project:
 
 - [Graph Visualizer](https://graphize.netlify.app)
