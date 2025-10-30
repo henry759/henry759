@@ -20,7 +20,7 @@ I'm currently sharpening my skills in **Backend APIs** using FastAPI, and also w
 | **_Styling_**  | _*Tailwind, SCSS, CSS3*_ |
 
 ## 🚀 Featured Project:
-[Graph Visualizer](https://graphize.netlify.app)
+[Graph Visualizer(A web app that im currently developing)](https://graphize.netlify.app)
 - <img width="1919" height="979" alt="graph_visualizer_desktop" src="https://github.com/user-attachments/assets/56335619-eba7-439e-b05e-5dc3af9bbc9c" />
 - <img width="1365" height="907" alt="graph_visualizer_mobile" src="https://github.com/user-attachments/assets/de8dd940-93e7-4bb1-b23f-83755ddd74af" />
 - <img width="1366" height="877" alt="grapg_visualizer_mobile_save_graph" src="https://github.com/user-attachments/assets/8b048456-d3b9-4022-b0a0-f0858fc912f4" />
