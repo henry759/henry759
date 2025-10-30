@@ -13,10 +13,6 @@ I'm currently sharpening my skills in **Backend APIs** using FastAPI, and also w
 
 ### Splitted as _**📜 Layer**_ and _**⚙ Tech**_
 
-<!-- ![Retro](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdtdTJyeW43MjZtcDFldTA4MmM3dmFvanBjb3V6YnRiZGZvMTlwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78s4AN5lqpg6g2KoXP/giphy.gif) -->
-
-![Gif For Portfolio](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHo1b25tYmZ2YzRvM3l1NDhudmhkYnRxeXlnaDNoNnA5MTVqMHBpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GfGva4vGq4qNsUf4N9/giphy.gif)
-
 | 📜Layer        | ⚙️Tech                   |
 | -------------- | ------------------------ |
 | _**Frontend**_ | _*Next.js, React*_       |
